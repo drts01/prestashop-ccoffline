@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>ccoffline</name>
+            <displayName><![CDATA[Credit Card]]></displayName>
+            <version><![CDATA[0.1]]></version>
+            <description><![CDATA[Obtains payment information for manual, offline processing.]]></description>
+            <author><![CDATA[digitalRoots]]></author>
+            <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall>Uninstalling will remove payment information stored with this module. Continue?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
